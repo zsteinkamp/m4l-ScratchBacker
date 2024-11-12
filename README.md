@@ -8,7 +8,7 @@ You can define up to 12 different scratch presets, then trigger them with the no
 
 Playing higher notes will play back a sample, relative to a `Root Note` that you can set.
 
-So a typical way to use this device is to drop a sample on the sample drop area, then hold a note to play back a sample while triggering scratching by tapping scratch trigger notes.
+So a typical way to use this device is to drop a sample on the sample drop area, then hold a note (e.g. C3) to play back a sample while triggering scratching by tapping scratch trigger notes (e.g. C1).
 
 ## Installation
 
