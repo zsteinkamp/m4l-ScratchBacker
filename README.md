@@ -10,6 +10,8 @@ Playing higher notes will play back a sample, relative to a `Root Note` that you
 
 So a typical way to use this device is to drop a sample on the sample drop area, then hold a note (e.g. C3) to play back a sample while triggering scratching by tapping scratch trigger notes (e.g. C1).
 
+[View an Overview Video](https://youtu.be/G8T77lcQroA)
+
 ## Installation
 
 Download the newest .amxd file from the [Releases page](https://github.com/zsteinkamp/m4l-ScratchBacker/releases), or clone this repository and drag the `ScratchBacker.amxd` device into a track in Ableton Live.
