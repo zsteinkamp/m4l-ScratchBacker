@@ -16,6 +16,7 @@ Download the newest .amxd file from the [Releases page](https://github.com/zstei
 
 ## Changelog
 
+* 2024-11-13 [v2](https://github.com/zsteinkamp/m4l-ScratchBacker/releases/download/v2/ScratchBacker-v2.amxd) - Visual improvements, clean up implementation for Max divers.
 * 2024-11-11 [v1](https://github.com/zsteinkamp/m4l-ScratchBacker/releases/download/v1/ScratchBacker-v1.amxd) - Initial release.
 
 ## Controls
